@@ -1,0 +1,4 @@
+dspd class 5
+dmgt class 4
+web class 3
+co clas 9
